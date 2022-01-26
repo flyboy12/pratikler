@@ -1,0 +1,15 @@
+C:\repo\pratikler\tipdonusum\bin\Debug\net6.0\tipdonusum.exe
+C:\repo\pratikler\tipdonusum\bin\Debug\net6.0\tipdonusum.deps.json
+C:\repo\pratikler\tipdonusum\bin\Debug\net6.0\tipdonusum.runtimeconfig.json
+C:\repo\pratikler\tipdonusum\bin\Debug\net6.0\tipdonusum.dll
+C:\repo\pratikler\tipdonusum\bin\Debug\net6.0\ref\tipdonusum.dll
+C:\repo\pratikler\tipdonusum\bin\Debug\net6.0\tipdonusum.pdb
+C:\repo\pratikler\tipdonusum\obj\Debug\net6.0\tipdonusum.csproj.AssemblyReference.cache
+C:\repo\pratikler\tipdonusum\obj\Debug\net6.0\tipdonusum.GeneratedMSBuildEditorConfig.editorconfig
+C:\repo\pratikler\tipdonusum\obj\Debug\net6.0\tipdonusum.AssemblyInfoInputs.cache
+C:\repo\pratikler\tipdonusum\obj\Debug\net6.0\tipdonusum.AssemblyInfo.cs
+C:\repo\pratikler\tipdonusum\obj\Debug\net6.0\tipdonusum.csproj.CoreCompileInputs.cache
+C:\repo\pratikler\tipdonusum\obj\Debug\net6.0\tipdonusum.dll
+C:\repo\pratikler\tipdonusum\obj\Debug\net6.0\ref\tipdonusum.dll
+C:\repo\pratikler\tipdonusum\obj\Debug\net6.0\tipdonusum.pdb
+C:\repo\pratikler\tipdonusum\obj\Debug\net6.0\tipdonusum.genruntimeconfig.cache
