@@ -1,0 +1,15 @@
+C:\repo\pratikler\if-else-ternary\bin\Debug\net6.0\if-else-ternary.exe
+C:\repo\pratikler\if-else-ternary\bin\Debug\net6.0\if-else-ternary.deps.json
+C:\repo\pratikler\if-else-ternary\bin\Debug\net6.0\if-else-ternary.runtimeconfig.json
+C:\repo\pratikler\if-else-ternary\bin\Debug\net6.0\if-else-ternary.dll
+C:\repo\pratikler\if-else-ternary\bin\Debug\net6.0\ref\if-else-ternary.dll
+C:\repo\pratikler\if-else-ternary\bin\Debug\net6.0\if-else-ternary.pdb
+C:\repo\pratikler\if-else-ternary\obj\Debug\net6.0\if-else-ternary.csproj.AssemblyReference.cache
+C:\repo\pratikler\if-else-ternary\obj\Debug\net6.0\if-else-ternary.GeneratedMSBuildEditorConfig.editorconfig
+C:\repo\pratikler\if-else-ternary\obj\Debug\net6.0\if-else-ternary.AssemblyInfoInputs.cache
+C:\repo\pratikler\if-else-ternary\obj\Debug\net6.0\if-else-ternary.AssemblyInfo.cs
+C:\repo\pratikler\if-else-ternary\obj\Debug\net6.0\if-else-ternary.csproj.CoreCompileInputs.cache
+C:\repo\pratikler\if-else-ternary\obj\Debug\net6.0\if-else-ternary.dll
+C:\repo\pratikler\if-else-ternary\obj\Debug\net6.0\ref\if-else-ternary.dll
+C:\repo\pratikler\if-else-ternary\obj\Debug\net6.0\if-else-ternary.pdb
+C:\repo\pratikler\if-else-ternary\obj\Debug\net6.0\if-else-ternary.genruntimeconfig.cache
