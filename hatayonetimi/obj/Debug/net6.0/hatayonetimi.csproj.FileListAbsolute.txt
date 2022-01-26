@@ -1,0 +1,15 @@
+C:\repo\pratikler\hatayonetimi\bin\Debug\net6.0\hatayonetimi.exe
+C:\repo\pratikler\hatayonetimi\bin\Debug\net6.0\hatayonetimi.deps.json
+C:\repo\pratikler\hatayonetimi\bin\Debug\net6.0\hatayonetimi.runtimeconfig.json
+C:\repo\pratikler\hatayonetimi\bin\Debug\net6.0\hatayonetimi.dll
+C:\repo\pratikler\hatayonetimi\bin\Debug\net6.0\ref\hatayonetimi.dll
+C:\repo\pratikler\hatayonetimi\bin\Debug\net6.0\hatayonetimi.pdb
+C:\repo\pratikler\hatayonetimi\obj\Debug\net6.0\hatayonetimi.csproj.AssemblyReference.cache
+C:\repo\pratikler\hatayonetimi\obj\Debug\net6.0\hatayonetimi.GeneratedMSBuildEditorConfig.editorconfig
+C:\repo\pratikler\hatayonetimi\obj\Debug\net6.0\hatayonetimi.AssemblyInfoInputs.cache
+C:\repo\pratikler\hatayonetimi\obj\Debug\net6.0\hatayonetimi.AssemblyInfo.cs
+C:\repo\pratikler\hatayonetimi\obj\Debug\net6.0\hatayonetimi.csproj.CoreCompileInputs.cache
+C:\repo\pratikler\hatayonetimi\obj\Debug\net6.0\hatayonetimi.dll
+C:\repo\pratikler\hatayonetimi\obj\Debug\net6.0\ref\hatayonetimi.dll
+C:\repo\pratikler\hatayonetimi\obj\Debug\net6.0\hatayonetimi.pdb
+C:\repo\pratikler\hatayonetimi\obj\Debug\net6.0\hatayonetimi.genruntimeconfig.cache
